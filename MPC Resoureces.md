@@ -18,7 +18,7 @@
 
 ### 📓ABY
 
-📜**【NDSS 2015】*ABY – A Framework for Efficient Mixed-Protocol Secure Two-Party Computation* **
+📜**【NDSS 2015】*ABY – A Framework for Efficient Mixed-Protocol Secure Two-Party Computation***
 
 + *Author(s)：*[Daniel Demmler](https://www.inf.uni-hamburg.de/inst/ab/snp/team/demmler.html)，[Thomas Schneider](https://www.thoschneider.de/),，[Michael Zohner](https://sites.google.com/site/mizohner/)
 + *Download：*[Paper](https://www.ndss-symposium.org/wp-content/uploads/2017/09/08_2_1.pdf)
@@ -27,7 +27,7 @@
 
 ---
 
-📜**【CCS 2018】*ABY^3^: A Mixed Protocol Framework for Machine Learning* **
+📜**【CCS 2018】*ABY^3^: A Mixed Protocol Framework for Machine Learning***
 
 - *Author(s)：*[Payman Mohassel](https://paymanmohassel.com/)，[Peter Rindal](https://ladnir.github.io/)
 - Download：[ACM CCS](https://dl.acm.org/doi/abs/10.1145/3243734.3243760)，[eprint](https://eprint.iacr.org/2018/403)
@@ -36,7 +36,7 @@
 
 ---
 
-**📜【USENIX 2021】*ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation* **
+**📜【USENIX 2021】*ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation***
 
 - *Author(s)：*[Arpita Patra](https://www.csa.iisc.ac.in/~arpita/)，[Thomas Schneider](https://www.thoschneider.de/)，[Ajith Suresh](https://ajithsuresh.github.io/)，[Hossein Yalame](https://www.encrypto.cs.tu-darmstadt.de/team_encrypto/hossein_yalame/index.en.jsp)
 - *Download：*[USENIX](https://www.usenix.org/conference/usenixsecurity21/presentation/patra)，[eprint](https://eprint.iacr.org/2020/1225)
@@ -46,7 +46,7 @@
 
 ### 📓数据库
 
-📜**【CCS 2020】*Fast Database Joins and PSI for Secret Shared Data* **
+📜**【CCS 2020】*Fast Database Joins and PSI for Secret Shared Data***
 
 - *Author(s)：*[Payman Mohassel](https://paymanmohassel.com/)，[Peter Rindal](https://ladnir.github.io/)，[Mike Rosulek](https://web.engr.oregonstate.edu/~rosulekm/)
 
