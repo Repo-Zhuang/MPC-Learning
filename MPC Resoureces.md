@@ -18,7 +18,7 @@
 
 ### 📓ABY
 
-📜**【NDSS 2015】*ABY – A Framework for Efficient Mixed-Protocol Secure Two-Party Computation***
+📜**【NDSS 2015】*ABY – A Framework for Efficient Mixed-Protocol Secure Two-Party Computation* **
 
 + *Author(s)：*[Daniel Demmler](https://www.inf.uni-hamburg.de/inst/ab/snp/team/demmler.html)，[Thomas Schneider](https://www.thoschneider.de/),，[Michael Zohner]([Michael Zohner (google.com)](https://sites.google.com/site/mizohner/))
 + *Download：*[Paper](https://www.ndss-symposium.org/wp-content/uploads/2017/09/08_2_1.pdf)
