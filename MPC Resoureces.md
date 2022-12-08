@@ -49,11 +49,31 @@
 **📜【CCS 2020】*Fast Database Joins and PSI for Secret Shared Data***
 
 - *Author(s)：*[Payman Mohassel](https://paymanmohassel.com/)，[Peter Rindal](https://ladnir.github.io/)，[Mike Rosulek](https://web.engr.oregonstate.edu/~rosulekm/)
-
 - *Download：*[eprint](https://eprint.iacr.org/2019/518)
-
 - *Paper with codes：*[ladnir/aby3](https://github.com/ladnir/aby3)
-
 - Additional Documents：[Video](https://dl.acm.org/doi/10.1145/3372297.3423358)
 
-  
+---
+
+**📜【*S&P* 2022】*Waldo: A Private Time-Series Database from Function Secret-Sharing***
+
+- *Author(s)：*[Emma Dauterman](https://people.eecs.berkeley.edu/~edauterman/)，[Mayank Rathee](https://mayank0403.github.io/)，[Raluca Ada Popa](https://people.eecs.berkeley.edu/~raluca/)，[Ion Stoica](http://people.eecs.berkeley.edu/~istoica/)
+- *Download：*[USENIX](https://www.usenix.org/conference/usenixsecurity21/presentation/dalskov)
+- *Paper with codes：*
+- Additional Documents：[Video](https://www.youtube.com/watch?v=ygUZ61JZEE4)，[Slides](https://docplayer.net/229956133-Waldo-a-private-time-series-database-from-function-secret-sharing.html)
+
+---
+
+### 📓安全多方协议
+
+**📜【*USENIX* 2021】*Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security***
+
+- *Author(s)：*[Anders Dalskov](https://anderspkd.github.io/)，[Daniel Escudero](https://www.escudero.me/)，[Marcel Keller](https://mkskeller.github.io/)
+- *Download：*[USENIX](https://www.usenix.org/conference/usenixsecurity21/presentation/dalskov)，[eprint](https://eprint.iacr.org/2021/1661)
+- *Paper with codes：*
+- Additional Documents：[Video](https://www.youtube.com/watch?v=_j6iDqCqgMs)，[Slides](https://www.usenix.org/system/files/sec21_slides_dalskov.pdf)
+
+---
+
+
+
